@@ -3,3 +3,4 @@
 3. Steps to reproduce
 4. Expected results
 "Actual results" 
+6.Posconditions
